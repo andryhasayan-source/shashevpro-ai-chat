@@ -1,0 +1,11 @@
+# Витрина-репозиторий: код и бинарники не публикуются
+*.py
+*.exe
+*.gguf
+*.zip
+__pycache__/
+.venv/
+dist/
+build/
+storage/
+*.log
